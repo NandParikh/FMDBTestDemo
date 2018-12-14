@@ -1,10 +1,3 @@
-//
-//  DBManager.swift
-//  FMDBTut
-//
-//  Created by Gabriel Theodoropoulos on 07/10/16.
-//  Copyright © 2016 Appcoda. All rights reserved.
-//
 
 import UIKit
 
